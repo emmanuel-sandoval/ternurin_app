@@ -1,7 +1,7 @@
 {
   "name": "Ternurin App",
   "short_name": "TApp",
-  "start_url": "/hola_mundo.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6200ee",
